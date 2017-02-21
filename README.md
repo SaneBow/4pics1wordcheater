@@ -2,4 +2,4 @@
 
 If you want to cheat, read the code.
 
-![demo](4pics1word.gif)
+![demo](demo.gif)
