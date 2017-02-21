@@ -1,5 +1,5 @@
 # 4 pics 1 word Cheater
 
-If you want to cheat, read the code.
+Cheat itself is boring, coding it is fun.
 
 ![demo](demo.gif)
